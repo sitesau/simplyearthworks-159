@@ -1,0 +1,22 @@
+{
+  "wheel_id": 873,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-159",
+  "project": "earthmoving-adelaide-cost-guide-545742770206604c017b931638fbdb3",
+  "parent_t1_ref": "simplyearthworks-014",
+  "node_role": "buffer",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide cost guide",
+  "intended_url": "https://sitesau.github.io/simplyearthworks-159/",
+  "tier": "T2",
+  "writeback_nonce": "7d484d8adbdce28b",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/earthmoving-adelaide-simplyearthworks-014/",
+      "anchor": "Earthmoving Adelaide: A Practical Site Brief Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
